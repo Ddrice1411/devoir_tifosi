@@ -1,6 +1,6 @@
-# 🍕 Projet MySQL – Tifosi
+#  Projet MySQL – Tifosi
 
-## 📌 Contexte
+##  Contexte
 
 Ce projet a été réalisé dans le cadre d’un exercice de conception de base de données avec **MySQL**.
 
@@ -28,7 +28,7 @@ L’objectif est de concevoir le schéma de la base, de l’alimenter avec des d
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 * MySQL Server 8.x
 * MySQL Workbench
@@ -36,7 +36,7 @@ L’objectif est de concevoir le schéma de la base, de l’alimenter avec des d
 
 ---
 
-## 🧱 Structure de la base de données
+##  Structure de la base de données
 
 La base de données `tifosi` contient les tables suivantes :
 
@@ -101,7 +101,7 @@ Il contient **10 requêtes de test** permettant de vérifier que la base de donn
 
 ---
 
-## 🔍 Requêtes de vérification (liste)
+##  Requêtes de vérification (liste)
 
 1. Liste des focaccias par ordre alphabétique
 2. Nombre total d’ingrédients
@@ -128,5 +128,3 @@ Ce projet permet de mettre en pratique :
 La base de données obtenue est fonctionnelle, cohérente et conforme au cahier des charges fourni.
 
 ---
-
-📚 *Projet réalisé dans un cadre pédagogique.*
